@@ -124,7 +124,7 @@ def create_text_block(parent, height=10, is_input=True):
 
 # --- НАСТРОЙКА ГЛАВНОГО ОКНА ---
 root = tk.Tk()
-root.title("Sravni v5.6 Premium | SQL Analysis")
+root.title("Sravni v5.6 Premium | Powered by Spood")
 root.geometry("1100x850")
 root.configure(bg="#F8F9FA")
 
