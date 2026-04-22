@@ -1,4 +1,4 @@
-# Sravni Tool Ultimate | Spood Edition 📋
+# Sravni Tool Ultimate 📋
 
 **Sravni** — это простой и эффективный инструмент для сравнения списков данных и подготовки SQL-запросов. 
 
@@ -40,4 +40,4 @@
 Инструмент написан на **Python** (Desktop) и **Vanilla JS** (Web). Он полностью автономен и не передает ваши данные на внешние серверы — всё происходит локально на вашем компьютере.
 
 ---
-*Developed by Spood Engineering*
+*Сделано с помощью Antigravity AI*
